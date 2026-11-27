@@ -139,7 +139,7 @@
         "resize-observer-polyfill": "^1.5.1",
         "rimraf": "^2.6.3",
         "sass": "^1.62.1",
-        "sass-loader": "^13.2.2",
+        "sass-loader": "^17.1.1",
         "sinon": "^7.4.1",
         "stylelint": "^14.16.1",
         "stylelint-no-unsupported-browser-features": "^5.0.4",
