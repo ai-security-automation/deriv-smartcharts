@@ -65,7 +65,7 @@
         "@babel/register": "^7.5.5",
         "@commitlint/cli": "^19.3.0",
         "@commitlint/config-conventional": "^19.2.2",
-        "@commitlint/cz-commitlint": "^19.2.0",
+        "@commitlint/cz-commitlint": "^21.2.4",
         "@deriv-com/quill-tokens": "2.0.32",
         "@deriv-com/quill-ui": "1.24.13",
         "@deriv/quill-icons": "2.4.16",
